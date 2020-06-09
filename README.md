@@ -1,4 +1,4 @@
-# Hotstar Live TV Script
+# Hotstar Live TV Script Now at Flat 50% Off
 Hotstar Live TV Channels Script For Sale!
 
 Hotstar php script only runs on Linux. *You must have Indian IP*. Use any Indian Hosting Server or Amazon AWS.
