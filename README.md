@@ -1,4 +1,4 @@
-# Hotstar Live TV Script Now at Flat 50% Off
+# Hotstar Live TV Script
 Hotstar Live TV Channels Script For Sale!
 
 Hotstar php script only runs on Linux. *You must have Indian IP*. Use any Indian Hosting Server or Amazon AWS.
@@ -12,4 +12,4 @@ Best For Android Live TV App Owners. Contact us for a live demo.
 
 *Note: Star Sports channels will not play. No Sports channels streaming. Channels are HD only.* 
 
-Contact Us For More Detailed Guide. 
+# Contact Us For More Detailed Guide. We can also make custom scripts for any OTT platform.
